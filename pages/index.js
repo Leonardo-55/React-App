@@ -14,6 +14,7 @@ export default function Home() {
       <li>SEO Friendly</li>
       <li>Easy Routing</li>
       <li>Serverside Capabilities</li>
+      <li>Hello</li>
     </ol>
     <Footer org="Edunet Foundation"/>
     </main>
